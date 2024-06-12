@@ -2619,7 +2619,7 @@
       "header": "SO",
       "sellnumber": "104",
       "category": "women",
-      "img": "https://media.kohlsimg.com/is/image/kohls/6494507_Beige_Mauve?wid=240&hei=240&op_sharpen=1"
+      "img": "https://media.kohlsimg.com/is/image/kohls/6494507_Beige_Mauve?wid=240&hei=240&op_sharpen=1",
   },
   {
       "id": 11,
@@ -2629,7 +2629,7 @@
       "header": "Levi's",
       "sellnumber": "796",
       "category": "women",
-      "img": "https://media.kohlsimg.com/is/image/kohls/4841148_ALT?wid=240&hei=240&op_sharpen=1"
+      "img": "https://media.kohlsimg.com/is/image/kohls/4841148_ALT?wid=240&hei=240&op_sharpen=1",
   },
   {
       "id": 12,
@@ -2639,7 +2639,7 @@
       "header": "Sonoma Goods For Life",
       "sellnumber": "2260",
       "category": "women",
-      "img": "https://media.kohlsimg.com/is/image/kohls/6660306_ALT?wid=240&hei=240&op_sharpen=1"
+      "img": "https://media.kohlsimg.com/is/image/kohls/6660306_ALT?wid=240&hei=240&op_sharpen=1",
   },
   {
       "id": 13,
@@ -2649,7 +2649,7 @@
       "header": "Tek Gear",
       "sellnumber": "unknown",
       "category": "women",
-      "img": "https://media.kohlsimg.com/is/image/kohls/7082746_Pink_Burnout?wid=240&hei=240&op_sharpen=1"
+      "img": "https://media.kohlsimg.com/is/image/kohls/7082746_Pink_Burnout?wid=240&hei=240&op_sharpen=1",
   },
   {
       "id": 14,
@@ -2659,7 +2659,7 @@
       "header": "Croft & Barrow",
       "sellnumber": "3639",
       "category": "women",
-      "img": "https://media.kohlsimg.com/is/image/kohls/5011252_ALT?wid=240&hei=240&op_sharpen=1"
+      "img": "https://media.kohlsimg.com/is/image/kohls/5011252_ALT?wid=240&hei=240&op_sharpen=1",
   },
   {
       "id": 15,
@@ -2669,7 +2669,7 @@
       "header": "Nine West",
       "sellnumber": "3591",
       "category": "women",
-      "img": "https://media.kohlsimg.com/is/image/kohls/6723085_ALT?wid=240&hei=240&op_sharpen=1"
+      "img": "https://media.kohlsimg.com/is/image/kohls/6723085_ALT?wid=240&hei=240&op_sharpen=1",
   },
   {
       "id": 16,
@@ -2679,7 +2679,7 @@
       "header": "Nine West",
       "sellnumber": "1542",
       "category": "women",
-      "img": "https://media.kohlsimg.com/is/image/kohls/6472966_ALT?wid=240&hei=240&op_sharpen=1"
+      "img": "https://media.kohlsimg.com/is/image/kohls/6472966_ALT?wid=240&hei=240&op_sharpen=1",
   },
   {
       "id": 17,
@@ -2689,7 +2689,7 @@
       "header": "Sonoma Goods For Life",
       "sellnumber": "218",
       "category": "women",
-      "img": "https://media.kohlsimg.com/is/image/kohls/6539488_ALT?wid=240&hei=240&op_sharpen=1"
+      "img": "https://media.kohlsimg.com/is/image/kohls/6539488_ALT?wid=240&hei=240&op_sharpen=1",
   },
   {
       "id": 18,
@@ -2709,7 +2709,7 @@
       "header": "Tek Gear",
       "sellnumber": "351",
       "category": "women",
-      "img": "https://media.kohlsimg.com/is/image/kohls/6503101_ALT?wid=240&hei=240&op_sharpen=1"
+      "img": "https://media.kohlsimg.com/is/image/kohls/6503101_ALT?wid=240&hei=240&op_sharpen=1",
   },
   {
       "id": 20,
@@ -2719,7 +2719,7 @@
       "header": "Nine West",
       "sellnumber": "2348",
       "category": "women",
-      "img": "https://media.kohlsimg.com/is/image/kohls/5942070_Smoky_Slate?wid=240&hei=240&op_sharpen=1"
+      "img": "https://media.kohlsimg.com/is/image/kohls/5942070_Smoky_Slate?wid=240&hei=240&op_sharpen=1",
   },
   {
       "id": 21,
@@ -2729,7 +2729,7 @@
       "header": "Croft & Barrow",
       "sellnumber": "2755",
       "category": "women",
-      "img": "https://media.kohlsimg.com/is/image/kohls/6301350_ALT?wid=240&hei=240&op_sharpen=1"
+      "img": "https://media.kohlsimg.com/is/image/kohls/6301350_ALT?wid=240&hei=240&op_sharpen=1",
   },
   {
       "id": 22,
@@ -2744,91 +2744,91 @@
 ],
 "WomenSlider":[
   {
-      "img": "",
+      "img": "https://media.kohlsimg.com/is/image/kohls/6703065_ALT?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $9.99",
       "description": "Nine West Essential Easy High-Neck Tank Top",
       "sellingNo": 1311
   },
   {
-      "img": "",
+      "img": "https://media.kohlsimg.com/is/image/kohls/6847654_ALT?wid=240&hei=240&op_sharpen=1",
       "price": "$20.39 SAVINGS\nSale $23.99",
       "description": "Women's Croft & Barrow Smocked Swing Midi Dress",
       "sellingNo": 2954
   },
   {
-      "img": "",
+      "img": "https://media.kohlsimg.com/is/image/kohls/6591860_ALT?wid=240&hei=240&op_sharpen=1",
       "price": "Sale $29.99\nRegular $37.00",
       "description": "Women's Lee Flex-To-Go Cargo Capri Pants",
       "sellingNo": 1484
   },
   {
-      "img": "",
+      "img": "https://media.kohlsimg.com/is/image/kohls/6174716_ALT?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $9.99",
       "description": "Juniors' SO Short Sleeve Crewneck Tee",
       "sellingNo": 50
   },
   {
-      "img": "",
+      "img":"https://media.kohlsimg.com/is/image/kohls/6488821_Taupe?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $9.99",
       "description": "Women's Sonoma Goods For Life High Neck Layering Tank",
       "sellingNo": 216
   },
   {
-      "img": "",
+      "img": "https://media.kohlsimg.com/is/image/kohls/6939631?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $11.99",
       "description": "Plus Size Croft & Barrow Essential Crewneck Tee",
       "sellingNo": 10432
   },
   {
-      "img": "",
+      "img": "https://media.kohlsimg.com/is/image/kohls/5207798?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $48.00",
       "description": "Bali Passion For Comfort Full-Figure Minimizer Underwire",
       "sellingNo": 5681
   },
   {
-      "img": "",
+      "img":"https://media.kohlsimg.com/is/image/kohls/6939633?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $11.99",
       "description": "Women's Nine West Essential V-Neck Tee",
       "sellingNo": 3591
   },
   {
-      "img": "",
+      "img": "https://media.kohlsimg.com/is/image/kohls/3928533_Gold_Tone?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $27.99",
       "description": "Women's Nine West V-Neck Tank Top",
       "sellingNo": 1542
   },
   {
-      "img": "",
+      "img":"https://media.kohlsimg.com/is/image/kohls/3906265?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $11.49 - $22.99",
       "description": "Women's Sonoma Goods Life Easy Paper Bag W",
       "sellingNo": 17
   },
   {
-      "img": "",
+      "img": "https://media.kohlsimg.com/is/image/kohls/3910467_Forest_Night?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $11.99",
       "description": "Women's Croft & Barrow Essential Crewneck Tee",
       "sellingNo": 10432
   },
   {
-      "img": "",
+      "img": "https://media.kohlsimg.com/is/image/kohls/5214280_ALT?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $9.99",
       "description": "Women's Sonoma Goods For Life Everyday Short Sleeve V",
       "sellingNo": 1101
   },
   {
-      "img": "",
+      "img": "https://media.kohlsimg.com/is/image/kohls/6939633?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $48.00",
       "description": "Bali Comfort Revolution ComfortFlex Fit Shaping",
       "sellingNo": 10189
   },
   {
-      "img": "",
+      "img":"https://media.kohlsimg.com/is/image/kohls/4887344_ALT?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $9.99",
       "description": "Women's Sonoma Goods For Life Short-Sleeve Crew Tee",
       "sellingNo": 715
   },
   {
-      "img": "",
+      "img":  "https://media.kohlsimg.com/is/image/kohls/3545170_ALT?wid=240&hei=240&op_sharpen=1",
       "price": "Regular $48.00",
       "description": "Bali Comfort Revolution ComfortFlex Fit Shaping",
       "sellingNo": 10106
